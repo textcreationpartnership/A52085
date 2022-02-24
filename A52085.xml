@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The womans advocate shewing the reason according to Scripture or the scripture reason why God hath brought to light the true meaning of his word by an unexpected hand.</title>
+            <author>Marsin, M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52085</idno>
+            <idno type="STC">Wing M813F</idno>
+            <idno type="STC">ESTC R31214</idno>
+            <idno type="EEBO-CITATION">11791274</idno>
+            <idno type="OCLC">ocm 11791274</idno>
+            <idno type="VID">39288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52085)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39288)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1816:3b, 1487:26a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The womans advocate shewing the reason according to Scripture or the scripture reason why God hath brought to light the true meaning of his word by an unexpected hand.</title>
+                  <author>Marsin, M.</author>
+               </titleStmt>
+               <extent>12, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Sold by J. Clark ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to M. Marsin by Wing and NUC pre-1956 imprints.</note>
+                  <note>Signed at end: M.M.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproductions of original in the Harvard University Library.</note>
+                  <note>Bound with: "Some of the chief heads of the most miraculous wonders that have late been in Christendom" [4] p. (Wing M813CB).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Second Advent.</term>
+               <term>Women in Christianity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:39288:1"/>
+                  <pb n="1" facs="tcp:39288:1"/>
+                  <head>The Womans Advocate: <hi>Shewing the Reaſon</hi> According to Scripture, <hi>OR THE Scripture Reaſon;</hi> Why God hath brought to Light the true meaning of his Word, by an unexpected hand.</head>
+                  <p>SEeing by that body of Men, which in the Word is termed the Beaſt, who under pretence of be<g ref="char:EOLhyphen"/>ing Teachers of the Goſpel, deprive the Nations of the Scriptures, whom God permitted ſo to do; when the greater party, with their Rulers grew to have no love to the Truth, but took pleaſure in un<g ref="char:EOLhyphen"/>righteouſneſs; then God ſuffered them to be deluded by the Beaſt, and ſo Idolatry and Darkneſs overſpread the Nations again: By means of which, we are now in great miſtakes, having loſt in ſeveral places the right Sentiments of the Word: And therefore if God hath at the end of the time determined, that the whole truth ſhould break forth another way, I hope none will be offended: And becauſe Woman was the firſt in the Tranſgreſſion, therefore all the time of this World, God hath more afflicted them than Man. But the
+<pb n="2" facs="tcp:39288:2"/>
+Lord Chriſt, to reſtore fallen Mankind, came of a Wo<g ref="char:EOLhyphen"/>man; and to ſhew they were alike beloved of the Lord, therefore his firſt coming was revealed to the Women, as well as to the Men. And alſo when he aroſe from the Dead, he then firſt appeared to the Women. But, becauſe Woman was firſt in the Tranſgreſſion, there<g ref="char:EOLhyphen"/>fore in the time of this World, Man was given the Ru<g ref="char:EOLhyphen"/>ling Power, and it is he that hath been the firſt ſetter up of all the Idolatrous Worſhip in the World.</p>
+                  <p>And after the Primitive times, the Beaſt and falſe Prophet have been the Suppreſſors of the Knowledge of the Truth. And the Mighty God, foreſeing what the event would be, Therefore by <hi>Zerubbabel</hi> the Favourite of Heaven, the Lord ſaith, <hi>Who art thou, O great Moun<g ref="char:EOLhyphen"/>tain before</hi> Zerubbabel? <hi>The hands of</hi> Zerubbabel <hi>have laid the foundation of this houſe, his hands ſhall alſo finiſh it.</hi> Zech. 4. 7, 9. This was the great <hi>Zerubbabel</hi> that laid the Writing under <hi>Darius</hi> his Pillow; wherein he joyns Women and Truth together, as Prophetically foreſeeing, that as Chriſt, who was Truth it ſelf, ſhould come of Woman; ſo again, when Man had darkned Truth by Errour, that God would again have Truth break forth by Woman, at Chriſts Second coming, and thoſe places of Scripture which we have been miſtaken in, to be fully and clearly explained by the Word, and that by Woman: And tho' Women, and all are ſaid to be wicked, <hi>Yet great is Truth, and great is the God of Truth, 1 Eſd.</hi> 3. 8, 12. And Chriſt ſaith of himſelf, <hi>I am the Way, the Truth, and the Life.</hi> The Lord giv<g ref="char:EOLhyphen"/>eth himſelf that Name of Truth. And ſeveral places of Scripture that we have apprehended to have little meaning in them, yet will prove to be of wonderful Sig<g ref="char:EOLhyphen"/>nification. Now as <hi>Zerubbabel</hi> is ſaid to lay the Foun<g ref="char:EOLhyphen"/>dation of the Temple, ſo his hand is ſaid to finiſh it. And Chriſt terms his Body a Temple, and the Temple of the Body of Chriſt, came of a Woman, and if the Lord will have the coming of the Temple, of his Glo<g ref="char:EOLhyphen"/>rious
+<pb n="3" facs="tcp:39288:2"/>
+Body fully declared by Woman, it is what God thinks meet, who is no reſpecter of Perſons, or Sex: For of them that are in the Lord. <hi>There is neither bond nor free, male nor female; for they are all one in Chriſt Jeſus,</hi> Gal. 3. 28. And the Lords Second coming has been again declared, for theſe ſeveral Years ſince the Reformation, as by <hi>Luther, Uſher,</hi> and <hi>Withers.</hi> And the Lord will not come the Second time, till his coming has been clearly made appear, and that by Woman.</p>
+                  <p>I do not think that thoſe Women that firſt ſaw the Lord after he aroſe, were better beloved of him, then the beloved Diſciple <hi>John,</hi> or <hi>Peter:</hi> But that the Lord did thereby fore-ſhew, that the clear Declaration of his Second coming ſhould be fully declared by Wo<g ref="char:EOLhyphen"/>man alſo. And I hope, that as Man is willing to be ſa<g ref="char:EOLhyphen"/>ved by the Lord of Life that came of a Woman, that they will not rather chuſe to go hood-winkt to De<g ref="char:EOLhyphen"/>ſtruction, then to be warned by a Woman to eſcape the near Appproaching danger by a a ſpeedy Refor<g ref="char:EOLhyphen"/>mation and Preparation, for the coming of the Lord.</p>
+                  <p>But to be awakened out of a ſleepy Security, ſeems no way pleaſing to the Fleſh; but let ſuch conſider, it is better to ſee the danger before hand, that they may avoid it, then to fall blind-fold into it. With the true Saint, there can be nothing ſo deſirable as the coming of the Lord and the knowledge thereof; whoſe coming I long for: And my Souls deſire alſo is, my fellow Creatures Eternal welfare: For which I have Laboured night and day. But I was willing to keep it from being known, by whom God had brought to Light the true meaning of his Word; therefore I endeavoured to place my words, when askt about the Books; ſo as it might not be apprehended that it was a Woman that wrote them. But the Lord bringing theſe fore-mentioned places of Scripture to my remembrance, as I was one Evening in Meditation; which before I had not taken notice of,
+<pb n="4" facs="tcp:39288:3"/>
+as to apprehend their meaning: By which I thought that it was the will of God, that I ſhould own the Work that he had imployed me in, that thro my weakneſs his Power might be exalted.</p>
+                  <p>But as the Lords Firſt coming was a ſnare to <hi>Iſrael,</hi> in that he came of her that was but of ſmall appearance in this World; ſo the Truth now breaking forth, and not by the great Schollars and Rabbies of the time, it will prove a ſnare to many; eſpecially to the high and lofty in their own imaginations. But God chuſeth not the Wiſe and Learned of this World to diſcover the Secrets in his Word, becauſe man ſhould not attribute to his own Wiſdome or Learning. <hi>Therefore God chuſeth the weak things of the World to confound the wiſe and mighty,</hi> 1 Cor. 1. 27. Iſa. 29. 11, 12, 13. Now the Beaſt deprived the Nations of the Goſpel, and would not permit any woman ſo much as to Read the Word: For which, when man acts contrary to God, then God acts contrary to man. And in that, I that am but a weak Worm, do underſtand the Miſterious part of the Scrip<g ref="char:EOLhyphen"/>tures, and have brought to Light the true meaning of thoſe miſtaken places, which has cauſed ſo much Diſſen<g ref="char:EOLhyphen"/>tion amongſt us; by means of which, we have been in great miſtakes as to ſeveral places of Scripture, which have ſeemed contradictory one to the other, becauſe we did not underſtand the true meaning of them. And therefore ſome have ſaid, God hath a Secret and a revealed Will: And that by his revealed Will, he in<g ref="char:EOLhyphen"/>vites all that will, to come, promiſing them Life; but by his Secret Will he hath determined, that none but the Elect ſhall be ſaved. The which is no other, then the turning the Truth of God into a lie; in his offering that Mercy, which he never did intend to perform. But now, all thoſe miſtaken places of Scripture are clearly proved by the Word, to have another meaning then what we have hitherto apprehended: So as all the Scripture now by Gods aſſiſtance, is made to agree in
+<pb n="5" facs="tcp:39288:3"/>
+a Holy harmony; and Juſtice, Mercy, and Truth, go hand in hand together. Therefore it is evident this muſt be done by the Aſſiſtance of God, and at the time, and in the way he hath appointed in his Word. And as the <hi>Jews</hi> were miſtaken as to Chriſt's firſt coming, ſo the <hi>Chriſtians</hi> are as much miſtaken as to his ſecond coming: But I hope our Rulers will not oppoſe the Truth as theirs did. But the people, as they, love to have ſmooth things told them, and love not them that tell them the truth, altho' they are willing to ſpend, and be ſpent for them.</p>
+                  <p>Some there are that find fault with my quoting of <hi>Eſdras</hi> in my Books, ſaying, that he was not mentio<g ref="char:EOLhyphen"/>ned either by Chriſt, or his Apoſtles. To which I an<g ref="char:EOLhyphen"/>ſwer, Neither were ſeveral other of the Prophets that are ſpoken of in the <hi>Old Teſtament.</hi> But if any ſay, he is not mentioned there, they aſſert that which is falſe. For <hi>Ezra</hi> in the <hi>Old Teſtament,</hi> is the ſame perſon, which in the <hi>Apochrapha</hi> is called <hi>Eſdras.</hi> For in <hi>Ezra</hi> Chap. 10. the 9, 16, 17. Verſes, is exactly the ſame with that in the 1 Book of <hi>Eſdras,</hi> Chap. 9. 5, 6, 17. Ver<g ref="char:EOLhyphen"/>ſes. And alſo in <hi>Nehemiah,</hi> Chap. 8. 2, 4. Verſes. the like is again ſaid in 1 <hi>Eſdras</hi> 9. 40, 42. Verſes. By which places it is fully made appear, that it was one and the ſame Man, who after the Captivity cauſed <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> to put away their ſtrange Wives, being met toge<g ref="char:EOLhyphen"/>ther at <hi>Jeruſalem</hi> on the Twentieth day of the Ninth Month, in the great ſhowre of Rain; and likewiſe ſtood upon a Pulpit of Wood, and Read the Law on the Firſt day of the Seventh Month to all the People. As to the difference of the Name, one was taken out of the <hi>Hebrew,</hi> the other out of the <hi>Caldean</hi> Tongue: and the Prophets are not called in the <hi>New Teſtament,</hi> as they are in the <hi>Old.</hi>
+                  </p>
+                  <p>But as for our Ancient Expoſitors, who placed not his Propheſies among the Prophets, it was, becauſe them<g ref="char:EOLhyphen"/>ſelves
+<pb n="6" facs="tcp:39288:4"/>
+erred from the Truth. Not only as to their miſ<g ref="char:EOLhyphen"/>apprehending that none but the Elect could be ſa<g ref="char:EOLhyphen"/>ved, but they likewiſe underſtood not the meaning of the World to come. And that in Scripture, there is Three Worlds ſpoken of, and Three Evers, and Three Times, and Three Generations: And that in the Word, every World is termed a Generation, as well as that from the Father to the Son; which now, by laying Scripture to Scripture is proved. Neither did they apprehend that the Powers and People are termed the Heavens and Earth; which in the Word are ſo termed far oftner then the Material Heavens and Earth are, as now by the Scripture is made plainly appear. And our Ancient Expoſitors being miſtaken in theſe things, made them deny the Reſtitution of all things, which God by the mouth of all his Prophets and his Apoſtles has declared, <hi>Acts</hi> 3. 21. which likewiſe <hi>Eſdras</hi> affirm<g ref="char:EOLhyphen"/>eth; which will be fulfilled in time to come before Eter<g ref="char:EOLhyphen"/>nity: Until which time of Reſtitution, the Heavens were again to receive Chriſt. <hi>At which time of return, the World will be judged in Righteouſneſs, by him whom God hath ordained,</hi> Acts 17. 31. And then will <hi>Iſrael</hi> be re<g ref="char:EOLhyphen"/>ſtored. For then the deliverer will turn away Ungod<g ref="char:EOLhyphen"/>lineſs from <hi>Jacob,</hi> Rom. 11. 26. And St. <hi>Paul</hi> turns us to the day of Judgment, <hi>Iſa.</hi> 59. 20. For the time of the Judgment of this World, and the riſe of the Saints, and the laſt Judgment, when all the Dead are raiſed, are clearly proved to be Two ſeveral Judgments. Sure our Ancient Expoſitors were in dangerous miſtakes, when by their Interpretation of the <hi>New Teſtament,</hi> they make God falſe and forſworn in the <hi>Old Teſta<g ref="char:EOLhyphen"/>ment.</hi> For therein he hath declared that <hi>Jeruſalem</hi> ſhall again be Built upon her own heap, never more to be deſtroyed, <hi>Jer.</hi> 30. 18. <hi>Jer. 31. 40. And likewiſe God hath ſworn by his right hand, and by thearm of his ſtrength, that he will no more give their Corn to be meat to their Ene<g ref="char:EOLhyphen"/>mies,</hi> Iſa. 62. 8. which promiſe will be made good to
+<pb n="7" facs="tcp:39288:4"/>
+them at the time of the Reſtitution of all things. At which time, we ſhall be judged according to our deeds: Theſe things will be fulfilled according to the Word, in as much as it is impoſſible for God to lie, in not perform<g ref="char:EOLhyphen"/>ing his promiſe to all according as he hath declared.</p>
+                  <p>
+                     <hi>Luther</hi> declared in a Book that was Tranſlated into Engliſh by Capt. <hi>Bell,</hi> That when the <hi>Turk</hi> began to decline, the Mighty Lord would come: And the ſigns of the time, as I have already elſwhere proved by the Word, is about Forty years; the which time <hi>Iſrael</hi> lay in the Wilderneſs. And about Five or Six and Thirty years ago, There was, as is recited in Hiſtory, over <hi>Conſtantinople,</hi> an Apparition ſeen in the Heavens, which was, a Woman with an open Book in her hand; which when they of the City did ſee, one of the Prieſts ſaid, Our <hi>Mahomet</hi> is not come at his appointed time; And that the Book which the Woman holds open in her hand, may be the Book of the Crucified <hi>Jeſus;</hi> which Book, we have neglected: Upon which ſaying, the people Stoned him to Death; at which time all the Lights in the place of their Worſhip went out. The Hiſtory in which this is recorded, I ſaw about Seven years ago; it was a borrowed Book, and the Perſon is Dead, with whom I ſaw it: It was a Book in Folio, and treated of ſeveral Countreys, and may be heard of. And ſince that Apparition, the <hi>Turks</hi> have been much oppreſt by War, and are declining; and the Mighty Lord is a coming, as by all the ſigns that he hath given us, he doth declare; which in my Books by the Word I have fully proved. And Bleſſed will they be that are found waiting for him.</p>
+                  <p>Whereas ſome ſay, if the Lord were a coming, ſure we ſhould know it: And likewiſe others ſay, if it were ſo, we ſhould know it: And ſo the Third. But they examine not their own hearts, whether upon the ſigns the Lord hath given of his coming, there was then in them, an unceſſant longing for his appearance; and ſo
+<pb n="8" facs="tcp:39288:5"/>
+a more diligent ſearch into the Word, by giving them<g ref="char:EOLhyphen"/>ſelves up to God, in ſtudying the Scripture night and day; neglecting their outward concern: and like the importunate Widow to the Judge, ſought to God by fervent Prayer, that they might more clearly under<g ref="char:EOLhyphen"/>ſtand the Scriptures. And if they had ſo done, my life for theirs, they might have known a great deal more then they do; in which way, the knowledge of the Truth was attained by me. And God doth often chuſe a peculiar Perſon or Perſons to accompliſh or declare that he hath determined. And who is it, that for his ſo doing, dares ſay, What doſt thou? As for my ſelf, I have been one whom God hath Exerciſed with afflicti<g ref="char:EOLhyphen"/>on from my Youth up, and I have alſo loved my Lord much; and therefore was not only willing to give my labour and time, but likewiſe to venture my little con<g ref="char:EOLhyphen"/>cern for the Publication of the knowledge of the Truth, for the Glory of God and the good of Souls. And now, if any will ſet their helping hand, that the knowledge of the Truths now diſcovered, may be made more Pub<g ref="char:EOLhyphen"/>lick then I am capable to do; it will be very well plea<g ref="char:EOLhyphen"/>ſing in the ſight of God. For altho' the Firſt Churches in the Apoſtles time <hi>were not in darkneſs, that, that day ſhould overtake them as a thief,</hi> 1 Theſ. 5. 4. Yet ſince the Chriſtians are fallen into darkneſs, concerning the time, by the falſe Notions that they have received; which has cauſed us to overlook the ſigns of the time, which the Lord in his Word hath declared, ſhould be before his Coming.</p>
+                  <p>Upon which evident Manifeſtation of the ſigns, part of the Miniſtry in <hi>Swedeland,</hi> after thoſe great Earrh<g ref="char:EOLhyphen"/>quakes, which the World in ſo ſhort time, never before produced the like, both for Number and Greatneſs, as then were in ſeveral places, with the other ſigns which the Lord foretold ſhould be to give notice of his Coming; therefore would have warned the People, apprehend<g ref="char:EOLhyphen"/>ing what Dreadful conſequence it would be to them,
+<pb n="9" facs="tcp:39288:5"/>
+that are found in darkneſs at that day, in not knowing the day of their Viſitation. But thoſe of the Clergy, that were in the wrong, prevailed, and would not ſuffer them ſo to Teach the People; and preſently ſent away to <hi>Holland</hi> to the Miniſters there, to continue as they were. This came over in the Monthly <hi>Mercury,</hi> and a <hi>Lutheran</hi> Miniſter told me, that the Reſolutions of the Miniſters of <hi>Swedeland</hi> was, That whatever they thought themſelves concerning the coming of Chriſt, they would not Teach it the People.</p>
+                  <p>But the ſevere Sentence of the Lord is not only a<g ref="char:EOLhyphen"/>gainſt them that add to his Word, that he will add to them the Plagues mentioned therein; but likewiſe thoſe that take away from the Words of the Book, wherein the Lord declares the Judgment of this World, the Reſtitution of all things, as again making all things new, with the general Invitation or common Salvation. <hi>And the Spirit and the Bride ſay, Come. And the Lord ſaith, Whoſoever will, let him come,</hi> Rev. 22. 17. And who is it dares ſay to the contrary? And it is thoſe that will not own theſe things, that ſhall have their <hi>part taken out of the book of Life,</hi> and from all the Bleſſings therein promiſed, <hi>Rev.</hi> 22. 19.</p>
+                  <p>Whereas it is ſaid, There ſhall ariſe many falſe Chriſts, and falſe Prophets; but to tell you of the true Chriſt, and of his coming in the true way, according as he hath declared in his Word; I hope the Prince of Dark<g ref="char:EOLhyphen"/>neſs will not ſo far prevail, as to make it to be eſteemed amongſt us as falſe Doctrine, which is ſo fully proved, both in the <hi>Old</hi> and <hi>New Teſtament:</hi> and likewiſe that Chriſts Righteouſneſs will be applied for our Juſtificati<g ref="char:EOLhyphen"/>on according to his Word, in the way of our Obedience; and if this Doctrine is new to us, then have we forgot<g ref="char:EOLhyphen"/>ten the good old way. And it may be partly ſaid of us, as God ſaid of <hi>Iſrael, My people are deſtroyed for lack of knowledge;</hi> for there is many that would readily em<g ref="char:EOLhyphen"/>brace the Truth, had they been ſo well inſtructed, as
+<pb n="10" facs="tcp:39288:6"/>
+to underſtand Truth from Errour; but them that will not ſee, and them that cannot ſee, will both fall into the Ditch: And i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> we would but give our ſelves liber<g ref="char:EOLhyphen"/>ty to conſider, we may eaſily ſee where the Stroke will fall, when by the Goſpel the Lord tells ſuch as are under it, That one ſhall be taken out of a Bed, and the other left: And one taken out of the Field, and the other left: And one out of the City, <hi>&amp;c.</hi> And this not becauſe God left them under neceſſity of Damnation, but becauſe they would not forget the eager purſuit of this preſent evil World; as in the Parable. But God by the Prophets tells <hi>Iſrael,</hi> That they ſhall be gathered together, and come up to <hi>Jeruſalem</hi> in Mul<g ref="char:EOLhyphen"/>titudes, upon Horſes, Chariots, Litters, Mules, and ſwift Beaſts: And then will he gather in others with them, <hi>Iſa 60. 5, 6, 7. Iſa.</hi> 66. 20. the which I have elſwhere more largly proved. All which things ought to be weighed, and conſidered, ſince the Wel<g ref="char:EOLhyphen"/>fare of our Souls and Bodies lies at Stake.</p>
+                  <p>The <hi>Bereans</hi> were termed Noble, becauſe they ſearched the Scriptures, to ſee whether thoſe things which the Apoſtles ſaid were true, <hi>Acts</hi> 17. 11.</p>
+                  <p>But the people of this Age think it their greateſt Wiſ<g ref="char:EOLhyphen"/>dom, to put out their own eyes, and not to look into the Truth, rather chooſing to anſwer by Rote, accord<g ref="char:EOLhyphen"/>ing to what Notions they have received, then to exa<g ref="char:EOLhyphen"/>mine the certainty of thoſe Truths, which the Lord according to his promiſe, hath now at the end of the time brought to Light, that knowledge thereby might be increaſed; ſo as the Viſion now by the Word, is made plain to ſpeak; and Light is thereby broke forth at Evening time, according as he hath promiſed: And if we would own the whole Truth, and break off our Sins by working Righteouſneſs, we might not only ſave our ſelves, but be an Example to many of the Chriſtians abroad Oh! that we would conſider our ways and be wiſe, and humble our ſelves to Almighty God, and
+<pb n="11" facs="tcp:39288:6"/>
+that we may have more love one to the other, it being the laſt Commandment the Lord left us; that by our obedient and humble walking, God may exalt us in due time: But if not, <hi>The loftineſs of man ſhall be bowed down, and the haughtineſs of men ſhall be made low; and the Lord alone ſhall be exalted in that day,</hi> Iſa. 2. 17.</p>
+                  <p>Whereas ſome ſay, that I make Interpretation of Scripture according to what I fancy; but whoſoever ſays it, it is ſuch as ſpeak by rote themſelves, and ac<g ref="char:EOLhyphen"/>cording to their received Opinion, and not by weigh<g ref="char:EOLhyphen"/>ing my Books and the Scriptures together; which if they did, without having a prejudice to the knowledge of the Truth, they would quickly be of another mind. For I don't pretend to Interpret Scripture, for that which God hath imployed me in, is to lay the Scrip<g ref="char:EOLhyphen"/>tures together; which is ſet down, here a little, and there a little, as thereby to make the Scriptures Inter<g ref="char:EOLhyphen"/>pret themſelves; ſo as to make the true meaning of the Word appear by them, and in leaving nothing therein to contradict what is ſaid; in which ſure way there can be no miſtake: Whil'ſt ſome others, by their own In<g ref="char:EOLhyphen"/>terpretations, have made the Scriptures like a Noſe of Wax, and have turned it to what they pleaſe, in tak<g ref="char:EOLhyphen"/>ing ſome few Scriptures that has not been rightly un<g ref="char:EOLhyphen"/>derſtood, to aſſert it, but leaving many other places of Scriptures to contradict them; but the Scripture is of certain rightly underſtood, when it is made to agree in a holy Harmony; and God proved to be faithful ac<g ref="char:EOLhyphen"/>cording to his Word, as well to the Jews, as to the Gentiles; which by the Interpretation of Scripture ac<g ref="char:EOLhyphen"/>cordsng to our Ancient Expoſitors, they have turned Earth into Heaven, and ſo made the promiſe of God to <hi>Iſrael</hi> at the time of the Reſtitution of all things, as nothing: For they only apprehended the <hi>New Jeru<g ref="char:EOLhyphen"/>ſalem</hi> that is above; and therefore thought not of a new Earthly one, which will be built again upon her own heap, never more to be deſtroyed, when all things are re<g ref="char:EOLhyphen"/>ſtored
+<pb n="12" facs="tcp:39288:7"/>
+and again made new, as in my Books is proved. And tho' ſeveral Scriptures have a Twofold referrence or meaning, yet no Scripture doth admit of a contra<g ref="char:EOLhyphen"/>dictory meaning, when rightly underſtood.</p>
+                  <p>And tho' our Ancient Reformers of the Church, I am fully perſwaded were Men of Sincerity and Integrity, and ſeveral of them Martyrs of Jeſus, but coming out of the Darkneſs of Popery, therefore could not ſuddenly diſcover the whole Truth of the Goſpel; but now God according to his promiſe, <hi>That at Evening time it ſhould be Light,</hi> Zach. 14. 7. <hi>And that at the end of the time knowledge ſhould be increaſ<g ref="char:EOLhyphen"/>ed,</hi> Dan. 12. 4. that thereby that day of the Coming of the Lord, might not come on us unawares; and therefore hath at the appointed time <hi>cauſed the Viſion to ſpeak,</hi> Hab. 2. 3. And tho' it does come according to the Word, <hi>as a ſnare to all fleſh,</hi> Luk. 21. 35. by rea<g ref="char:EOLhyphen"/>ſon it comes in a way unexpected: But whoſoever will own the Truth and prepare for the Coming of the Lord, will be Bleſſed; but it is ſuch that will not have the Lord to Reign over them, that at his return, when he has re<g ref="char:EOLhyphen"/>ceived the Kingdom, he then Commands to be brought and ſlain before him, <hi>Luke</hi> 19, 12, 27.</p>
+                  <p>And that we might not be found to condemn others, of that we are guilty of our ſelves; as the ſmothering the Truth, rather then we will be found in miſtakes: <hi>For when Gods Judgments are upon the earth, the Inhabi<g ref="char:EOLhyphen"/>tants of the World ſhould learn Reghteouſneſs,</hi> Iſa. 26. 9.</p>
+                  <p>The Prayers of the Wicked are Abomination and Sin, when they ask forgiveneſs for that they intend to com<g ref="char:EOLhyphen"/>mit again; but the Prayers of the Wicked is neither Abomination nor Sin, when they ask forgiveneſs for that they never intend to do again; begging God to aſſiſt them therein.</p>
+                  <closer>
+                     <signed>That we may all ſo do, is the earneſt Prayer of your Well-wiſher, and Servant in Chriſt. <hi>M. M.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>Sold by <hi>J. Clark,</hi> at the <hi>Bible,</hi> the upper end of <hi>Cheap<g ref="char:EOLhyphen"/>ſide,</hi> 1697.</p>
+               </div>
+               <trailer>FINIS.</trailer>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:39288:7"/>
+                  <head>Some of the chief Heads of the moſt Miraculous Wonders, that have of late been in Chriſtendom.</head>
+                  <div type="part">
+                     <head>
+                        <hi>Jamaico, June</hi> the 7th. 1692.</head>
+                     <p>ABout a quarter of an hour after 11 of the Clock<g ref="char:punc">▪</g> there was a terrible Earthquake, which continu<g ref="char:EOLhyphen"/>ed ſcarcely a quarter of an hour; in which time it o<g ref="char:EOLhyphen"/>verthrew all the Brick and Stone Buildings in the Coun<g ref="char:EOLhyphen"/>trey; in the which time <hi>Port Royal</hi> was deſtroyed and Town of St. <hi>Jago,</hi> with ſeveral others.</p>
+                  </div>
+                  <div type="part">
+                     <head>Earthquakes in <hi>Sicily</hi> and <hi>Naples;</hi> Which News came over in the Monthly Mercury.</head>
+                     <p>THE Second of <hi>January</hi> in 1693, there happen<g ref="char:EOLhyphen"/>ed about Four a Clock in the Morning, a terri<g ref="char:EOLhyphen"/>ble Earthquake at <hi>Meſſina;</hi> which however did no da<g ref="char:EOLhyphen"/>mage, but it ſtruck ſo great a terrour into the Inhabi<g ref="char:EOLhyphen"/>tants, that the greateſt part forſook the City, the reſt betook themſelves to the Churches two days after.</p>
+                     <p>The whole City was ſo terribly ſhaken, that the vi<g ref="char:EOLhyphen"/>olence of the ſhog over-turned 24 Pallaces, and con<g ref="char:EOLhyphen"/>ſiderably endamaged all the reſt of the Buildings, as e<g ref="char:EOLhyphen"/>very body thought nothing elſe, but eſcaping from the danger and retireing into the Country, where they that could ſet up Tents were ſafe from the injuries of the Weather, the Air being all on a flame by reaſon of the Thunder and continual flaſhes of Lightning: But, not<g ref="char:EOLhyphen"/>withſtanding the great damage done to this City, it was nothing to what many others received; as that of <hi>Faermina, Maſcali, Modica, Agouſta, Catanea, Syracu<g ref="char:EOLhyphen"/>ſe, Carlentino,</hi> and ſeveral other conſiderable Cities and Towns and Provinces are utterly ruined. <hi>Agouſta</hi> is become a meer lake, by reaſon of a Rupture which the Sea made into that part, while at the ſame time, the Lightning Flaſhing into the Fortreſs of the City,
+<pb facs="tcp:39288:8"/>
+blew it up into the Air: <hi>Catanea</hi> was utterly overturned, and Sixteen thouſand Perſons were Buried under the Ruins of the great Church; the 18 and 19 two freſh jolts gave new Alarms: Nor is the News from <hi>Palermo</hi> leſs to be deplored, that the Pallace Royal is quite over<g ref="char:EOLhyphen"/>turned, and that the <hi>VICE-ROY</hi> had much ado to eſcape to the Gallies. It may be truly ſaid that <hi>Sicily</hi> is nie laid waſte, as alſo the lower <hi>Calabria;</hi> 'tis thought above 120000 People periſhed, beſides 20000 Wound<g ref="char:EOLhyphen"/>ed: In this Earthquake was deſtroyed 37 great Cities and Towns.</p>
+                     <p>There has been a ſmall Earthquake ar <hi>Urbin,</hi> ſo that <hi>Cardinal Francis Barbarini</hi> was in ſome danger going to his Legat-ſhip of <hi>Ravenna;</hi> but he was ſuccour'd in time by his Servants, who diſengaged him out of a Queg<g ref="char:EOLhyphen"/>mire covered with Water. This Earthquake was felt in the City of <hi>Caſtello,</hi> where the Cathedral Church and ſome other Buildings were thrown down; as alſo in ſeveral other parts of <hi>Romagno.</hi>
+                     </p>
+                  </div>
+                  <div type="part">
+                     <head>This News was in the <hi>May</hi> Mercury 1694.</head>
+                     <p>The Mountain <hi>Veſuvius</hi> has caſt up ſo great a quan<g ref="char:EOLhyphen"/>tity of Melted Sulpher and Bitumen, that both toge<g ref="char:EOLhyphen"/>ther have form'd a kind of a little River for Three Miles in length; ſo that for fear it ſhould diffuſe it ſelf into the Neighbouring Fields, the <hi>VICE-ROY</hi> of <hi>Naples</hi> has been forced to ſet a great Number of Inhabitants to work, to open a paſſage for the infernal Liquor into the Sea.</p>
+                  </div>
+                  <div type="part">
+                     <head>This News was in the <hi>Auguſt</hi> Mercury 1694.</head>
+                     <p>From <hi>Naples</hi> we underſtand that the ravages made by the Earthquake, appear to be greater every day than other; the laſt particulars of which are theſe: The great Altar of the Cathedral Church, and the Chap<g ref="char:EOLhyphen"/>pel of St. <hi>Januario,</hi> belonging to it, are very much damaged. The Churches alſo of St. <hi>Jerome,</hi> St. <hi>Lau<g ref="char:EOLhyphen"/>rence,</hi> St. <hi>John,</hi> St. <hi>Gregory,</hi> of the Souls in Purgatory, St. <hi>Pauls,</hi> St. <hi>Peters,</hi> St. <hi>John</hi> the Greater. The Churches
+<pb facs="tcp:39288:8"/>
+of the <hi>Annunciation,</hi> St. <hi>Clara</hi>'s, the <hi>Jeſuits,</hi> and the <hi>Do<g ref="char:EOLhyphen"/>minicans</hi> Churches, have ſuffered ſome more, ſome leſs: and alſo the Cloiſters of the Nunneries of St. <hi>Francis, Tere<g ref="char:EOLhyphen"/>ſa, Mary Magdalen, Sancta Clara,</hi> and the <hi>Carmelites.</hi>
+                     </p>
+                     <p>Upon the 22th day of <hi>June</hi> 1694, the day that the Sun ſuffered an Ecclipſe, there aroſe ſo great a Storm near <hi>Cahors,</hi> and ſuch a terrible Tempeſt of Thunder, Lightning, Rain, and Hail, that ſeven or eight Villages were burnt by the Fire that darted from the Sky, a<g ref="char:EOLhyphen"/>bove 1200 perſons were deſtroyed, and all the cattel underwent the ſame fate. The River <hi>Loire</hi> ſwelled to that degree, that it overflowed all the Countrey, and when it returned to its Channel, left ſuch an infinite number of Fiſh, altogether unknown upon the land, that their ſtench infected the air; every body thought the World had been at an end. The Hail ravaged 48 Pariſhes in <hi>Armagnac,</hi> on that ſide next <hi>Bigorie</hi> and the Mountains.</p>
+                  </div>
+                  <div type="part">
+                     <head>This News was in the <hi>July</hi> Mercury 1694.</head>
+                     <p>The new ravages which Mount <hi>Veſſuvius</hi> has made, are very conſiderable, and accompanied with csrcum<g ref="char:EOLhyphen"/>ſtances no leſs remarkable. The people were firſt of all allarm'd by the roaring of Subterraneal Noiſes, which began the 15th. of <hi>April</hi> laſt. Theſe Noiſes were attended with rolling Hurricanes of Flames intermix<g ref="char:EOLhyphen"/>ed with Smokes, and from the wide Mouth of the Mountain iſſued forth a torrent of Fire. The air was at the ſame time covered with a thick cloud of blended cinders and burning ſand, which continued till the 12th. The 13th the Mountain opening it ſelf in ſeveral places, threw up flames and bituminous matter, which ſepa<g ref="char:EOLhyphen"/>rated themſelves into ſeveral Torrents. They took their courſe thorow a very deep Valley, that lies upon one of the ſides of the Mountain; and this river of fire glided along in this manner for the ſpace of a mile and a half weſtward. The breadth of it was near 50 fa<g ref="char:EOLhyphen"/>thom, and the fire rear'd it ſelf upward above 22 fa<g ref="char:EOLhyphen"/>thom, and this continued till the 16th. The ſame day
+<pb facs="tcp:39288:9"/>
+the Mountain ſtill threw up from the wide mouth of it, which is near 4 miles in circuit, a prodigious quantity of Bituminous matter; which riſing in the little burning Mountains, and melting with dreadful noiſe, form'd a<g ref="char:EOLhyphen"/>nother Torrent of fire: This laſted all the day, and the Torrents ceaſed to run the 19th. and the bituminous matter being harden'd into Stones, filled the hollow places where they lay diſperſed.</p>
+                     <p>The 21ſt. at night, the Wind at Eaſt, there fell a great quantity of black Cinders mixed with Sand, which covered the ſtreets and houſes of <hi>Naples:</hi> The Wind veered to the Weſt, and the next day being the 22th. the Torrents of the fire began again to flow gent<g ref="char:EOLhyphen"/>ly from the Mountain; and falling into the Valley, ſe<g ref="char:EOLhyphen"/>perated themſelves into two Valleys. Others were formed in different parts of the Mountains, which ran into the Territories of <hi>Hercolano</hi> and <hi>Boſco.</hi> The Stones and pieces of Rocks that lay in the paſſage of theſe fi<g ref="char:EOLhyphen"/>ery Rivers, were preſently kindled and calcin'd: After which they were ſeen floating and never ſinking to the bottom. The bituminous matters petrified and form<g ref="char:EOLhyphen"/>ed themſelves into Maſſie-bulks of a prodigious bigneſs. The Inhabitants of <hi>Labarra,</hi> St. <hi>Yvorio,</hi> and other places adjoyning to the Valley, where the Torrent of fire made its way, eſcaped to <hi>Naples,</hi> where the <hi>VICE-ROY,</hi> the Count of St. <hi>Iſtevan</hi> courteouſly received them.</p>
+                     <p>
+                        <hi>Theſe are the ſigns which the Lord gave us,</hi> Luk. 21. 11. 2 Eſdras 6. 24. <hi>to prepare for his Kingdom, and by which the Lord did awaken me, as to the near approach of his coming; and therefore I ſought to him to underſtand his word. The fireing of this Land is Propheſied in</hi> Iſa. 34. 9. <hi>and by theſe fires Hell hath enlarged her ſelf,</hi> Iſa. 5. 14. <hi>and this is the fire Propheſied of by</hi> Moſes, <hi>Deut. 32. 22. and again mentioned by the Lord in the</hi> 2 Eſdras 5. 8. <hi>as I have fully made appear in that Treatiſe which ſpeaks of the fireing of the Mountains; And if others did thirſt after the knowledge of the Truth, they would then quickly conſider theſe things, Which is the deſire of my Soul<g ref="char:punc">▪</g>
+                        </hi>
+                     </p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:39288:9"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
